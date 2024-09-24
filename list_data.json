@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"past jobs": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Associate Product Manager",
+			"Company": "Excelerate America",
+			"Description": "Identified a user drop-off point in the benefits section of our website, leading to the development of a new benefits page and streamlined onboarding pathway, resulting in a 40,000-click engagement on launch day and an 8% increase in conversion rates.",
+			"Time": "May 2022-Present"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "UX Designer",
+			"Company": "Excelerate America",
+			"Description": "Conducted over 40 usability tests and organized our design library/system to redesign company website.",
+			"Time": "Jan 2022 - May 2022"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "Data Analyst",
+			"Company": "Excelerate America",
+			"Description": "Designed and managed a nationwide social game for local partner organizations that resulted in over 5,000 native posts and over 3.5 million organic interactions as part of Small Business Week.",
+			"Time": "Summer 2019"
 		}
 	]
 }
